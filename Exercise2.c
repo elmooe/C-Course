@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+
 int main(void) {
     float salaries[12];
     float total = 0.0;
@@ -19,4 +19,3 @@ int main(void) {
 
     return 0;
 }
-*/
