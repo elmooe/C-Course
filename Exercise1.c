@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+
 int main(void) {
     int number;
     int count = 0;
@@ -26,4 +26,3 @@ int main(void) {
 
     return 0;
 }
-*/
